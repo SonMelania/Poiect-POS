@@ -1,0 +1,18 @@
+ DENUMIRE PROIECT: P.O.S.(POINT OF SALE)
+
+Proiectul va 
+- Intentionez sa implementez o aplicatie web pentru gestionarea vanzarilor unui Mini-Magazin.
+-Aplicatiea cuprinde mai multe ecrane:
+-1-autentificare utilizator;
+2- managementul utilizatorilor(administrator si vanzator) ; 
+3 -management grupe produse; 
+4- management produse; 
+5- management stocuri;
+6- rapoarte de vanzare; 
+7- ecranul propriuzis de vanzare care contine : lista curenta de produse adaugate in cos, butoane cu grupe/produse, modalitati de plata, total valoare de plata.
+
+-Datele vor fi stocate intr-o baza de date MS SQL,iar accesul la baza de date se va face cu Entity Framework.
+
+
+
+ 
